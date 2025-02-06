@@ -1,0 +1,19 @@
+{
+    "name": "suitsme/json_to_csv",
+    "description": "a tool to convert certain json records to csv file",
+    "type": "library",
+    "license": "mit",
+    "autoload": {
+        "psr-4": {
+            "Suitsme\\JsonToCsv\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mander1",
+            "email": "lewis.mander@googlemail.com"
+        }
+    ],
+    "minimum-stability": "beta",
+    "require": {}
+}
